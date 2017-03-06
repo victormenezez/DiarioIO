@@ -1,5 +1,5 @@
 *.pyc
 __pycache__
-myvenv
+diarioenv
 db.sqlite3
 .DS_Store
